@@ -1,3 +1,4 @@
+/*this code answers the first question from day 1*/
 object SantaInstructionsQuestion1 {
 
         def findFloor(instructions: String): Int = {
