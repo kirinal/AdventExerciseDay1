@@ -1,3 +1,4 @@
+/*this code is from day 1 question 2*/
 object SantaInstructionsQuestion2 {
 
   def findFloor(instructions: String): Int = {
